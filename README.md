@@ -1,4 +1,4 @@
-Forked to exclude /tests/src/ from autoload to work with automattic/jetpack-autoloader.
+## Forked to exclude /tests/src/ from autoload to work with automattic/jetpack-autoloader.
 
 
 <img src="https://api.whichbrowser.net/whichbrowser.svg" width="400">
